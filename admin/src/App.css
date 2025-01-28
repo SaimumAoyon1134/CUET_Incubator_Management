@@ -1,0 +1,31 @@
+.container{
+    display: absolute;
+    margin-top: 10px;
+}
+.top{
+    width:100vw;
+    height:8vh;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.side{
+    /* display: sticky; */
+   
+    width:20vw;
+    height:93vh;
+    margin-left: 0px;
+    margin-top: 0vh;
+    
+}
+.others{
+    width:80vw;
+    height:93vh;
+    margin-left:18.9vw;
+    margin-top: -92.1vh;;
+    
+}
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
